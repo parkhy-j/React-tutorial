@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+}
+header a {
+  display: inline-block;
+  margin: 50px 30px;
+}
+
+main {
+  width: 70%;
+  margin: 0 auto;
+}
+main dl {
+  margin: 0;
+  padding: 0;
+}
+main dl dt {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #eee;
+}
+main dl dd {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
