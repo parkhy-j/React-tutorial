@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parkhy-j/React-tutorial/static/css/main.cfad6b74.css",
-    "main.js": "/parkhy-j/React-tutorial/static/js/main.3427f82d.js",
-    "static/js/453.53cb6ab8.chunk.js": "/parkhy-j/React-tutorial/static/js/453.53cb6ab8.chunk.js",
-    "index.html": "/parkhy-j/React-tutorial/index.html",
-    "main.cfad6b74.css.map": "/parkhy-j/React-tutorial/static/css/main.cfad6b74.css.map",
-    "main.3427f82d.js.map": "/parkhy-j/React-tutorial/static/js/main.3427f82d.js.map",
-    "453.53cb6ab8.chunk.js.map": "/parkhy-j/React-tutorial/static/js/453.53cb6ab8.chunk.js.map"
+    "main.css": "/React-tutorial/static/css/main.cfad6b74.css",
+    "main.js": "/React-tutorial/static/js/main.64aa313d.js",
+    "static/js/453.53cb6ab8.chunk.js": "/React-tutorial/static/js/453.53cb6ab8.chunk.js",
+    "index.html": "/React-tutorial/index.html",
+    "main.cfad6b74.css.map": "/React-tutorial/static/css/main.cfad6b74.css.map",
+    "main.64aa313d.js.map": "/React-tutorial/static/js/main.64aa313d.js.map",
+    "453.53cb6ab8.chunk.js.map": "/React-tutorial/static/js/453.53cb6ab8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfad6b74.css",
-    "static/js/main.3427f82d.js"
+    "static/js/main.64aa313d.js"
   ]
 }
