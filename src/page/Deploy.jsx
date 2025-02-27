@@ -2,10 +2,7 @@ import React from 'react'
 
 function Deploy() {
   return (
-    <dl>
-        <dt></dt>
-        <dd></dd>
-    </dl>
+    <div>Deploy</div>
   )
 }
 

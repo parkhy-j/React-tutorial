@@ -1,33 +1,31 @@
-.test{
-    color:red;
-}
+.test{color:red;}
+
 header{
-    text-align: center;
+    text-align:center;
     a{
         display: inline-block;
-        margin: 50px 30px;
+        margin:50px 30px;
         &.active{
-            color: red;
+            color:red;
         }
     }
 }
 
 main{
     width:70%;
-    margin: 0 auto;
+    margin:0 auto;
     dl{
-        margin: 0; padding: 0;
+        margin:0; padding:0;
         dt{
             text-align: center;
-            padding: 10px 0;
+            padding:10px 0;
             background-color: #eee;
         }
         dd{
-            margin: 0;
-            padding: 20px 20px;
-            border-bottom: 1px solid #ddd;
+            margin:0;
+            padding:10px 20px;
+            border-bottom:1px solid #ddd;
             line-height: 2;
         }
-        
     }
 }
